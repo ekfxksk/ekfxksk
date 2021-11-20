@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-## Profile
+### Profile
 
+---
 
-## Skill
+### Skill
 
-## Project
+---
+
+### Project
+
+---
